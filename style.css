@@ -1,0 +1,21 @@
+.titulo{
+    font-family: cursive;
+    background-color: black;
+    color: aliceblue;
+}
+.estilo2{
+    color: aqua;
+}
+h2{
+    text-align: center;
+    background-color: rgb(164, 97, 228);
+    font-family: cursive;
+    color: aliceblue;
+}
+h3{
+    text-align: right;
+    background-color: aquamarine;
+    text-decoration: underline;
+    color: rgb(68, 30, 104);
+    font-family: cursive;
+}
